@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZIM",
-            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/zim-ios/ZIM.xcframework.zip?version=2.16.0",
-            checksum: "d26884868a220f2d3309e670a13bbcaa5ed300cdbe8f765aa129fd82bc346163"
+            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/zim-ios/ZIM.xcframework.zip?version=2.17.0",
+            checksum: "1af766a6eac0abfafde9eb256a17304e437ef710ea08d0c311e58885d520c92b"
         )
     ]
 )
